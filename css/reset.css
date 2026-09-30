@@ -1,0 +1,5 @@
+/* Reset básico para padronizar os navegadores */
+*, *::before, *::after { box-sizing: border-box; }
+body, h1, h2, h3, p, ul, figure { margin: 0; }
+img { display: block; max-width: 100%; }
+input, button, select { font: inherit; }
